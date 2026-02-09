@@ -20,7 +20,7 @@ const pickLocale = () => {
 onMounted(async () => {
   const target = pickLocale()
   await setLocale(target)
-  navigateTo(localePath('/btcpay-registration', target), { replace: true })
+  navigateTo(localePath('/btcpay-registration/', target), { replace: true })
 })
 
 const key = computed(() => `${route.path}-${locale.value}`)

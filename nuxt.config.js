@@ -88,6 +88,12 @@ export default defineNuxtConfig({
     autoTrack: true,
   },
 
+  router: {
+    options: {
+      trailingSlash: true,
+    },
+  },
+
   i18n: {
     baseUrl: deploymentDomain,
     locales,
@@ -95,7 +101,8 @@ export default defineNuxtConfig({
     lazy: true,
     langDir: 'lang',
     strategy: 'prefix',
-    detectBrowserLanguage: false
+    detectBrowserLanguage: false,
+    trailingSlash: true
   },
 
   content: {
@@ -108,11 +115,11 @@ export default defineNuxtConfig({
     debug: !isDeployed
   },
 
-  nitro: {
-    prerender: {
-      routes: ['/', '/en/', '/es/', '/it/'],
-      crawlLinks: true,
-      failOnError: true
-    }
-  }
+  experimental: {
+    defaults: {
+      nuxtLink: {
+        trailingSlash: 'append',
+      },
+    },
+  },
 });
