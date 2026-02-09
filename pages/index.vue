@@ -82,7 +82,7 @@ useHead({
     <div class="container">
       <h1 class="title has-text-primary">{{ data.title }}</h1>
       <h1 class="subtitle">{{ data.description }}</h1>
-      <IndexToc :toc="data.body.toc" />
+      <!-- <IndexToc :toc="data.body.toc" /> -->
       <ContentRenderer :value="data" class="content" />
     </div>
   </NuxtLayout>
