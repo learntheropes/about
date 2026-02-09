@@ -27,11 +27,11 @@ onMounted(async () => {
 
 const key = computed(() => `${route.path}-${locale.value}`)
 
-const { data } = await useAsyncData(
+const { data, pending, error } = await useAsyncData(
   key,
   () =>
     queryCollection('content')
-      .path(`/${locale.value}/home`)
+      .path(route.path)
       .first(),
   {
     watch: [locale, () => route.path]
