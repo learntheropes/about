@@ -27,11 +27,19 @@ onMounted(async () => {
 
 const key = computed(() => `${route.path}-${locale.value}`)
 
+const contentPath = computed(() => {
+  // normalize /en/ -> /en
+  // keep "/" as "/"
+  const p = route.path
+  if (p === '/') return '/'
+  return p.replace(/\/+$/, '')
+})
+
 const { data, pending, error } = await useAsyncData(
   key,
   () =>
     queryCollection('content')
-      .path(route.path)
+      .path(contentPath.value)
       .first(),
   {
     watch: [locale, () => route.path]
