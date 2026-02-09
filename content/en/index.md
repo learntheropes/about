@@ -3,14 +3,14 @@ title: Giovanni LearnTheRopes
 description: Bitcoin and LatAm early adopter
 ---
 ## About
-My name is Giovanni, aka Learntheropes.  
+<!-- My name is Giovanni, aka Learntheropes.  
 I was born in 1974 in Rome, but I grew up in a town on the Adriatic coast.  
 I speak native italian native, spanish and english, both C1 level. I've been told but maybe it is a bit too generous.  
 Before the Bitcoin era I was a professional sailor and boat builder specialized in sailing yachts and I visited almost any port from Istanbul to Miami.  
 I discovered Bitcoin in 2013 and in February 2014 I started to work at Localbitcoins Oy as support and fraud prenvention agent.  
 This remote job allowed me to move to Latam, a continent that I'm exploring since 2001, spending my time between Argentina, Paraguay and a bit of Mexico.   
 I was visiting Guadalajara because we had a branch there but I lived in Argentina for almost 4 years as an irregular immigrant, before moving permanently to Paraguay where I'm working for naturalization.  
-I've been a left wing anarchist for most of my life, grown up with a socialist family and friends. When I discovered Bitcoin I started to better understand economy and I became a libertarian, or a crypto-anarchist if you prefer, more concentrated on the personal benefit I can get than on the "ideology" itself.  
+I've been a left wing anarchist for most of my life, grown up with a socialist family and friends. When I discovered Bitcoin I started to better understand economy and I became a libertarian, or a crypto-anarchist if you prefer, more concentrated on the personal benefit I can get than on the "ideology" itself.   -->
 
 <!-- ## Residency
 I'm a permanent and tax resident of Paraguay since 2017 when I renounced my Italian residency.

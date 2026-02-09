@@ -3,7 +3,7 @@ title: Giovanni LearnTheRopes
 description: Adottante precoce di Bitcoin e dell' America Latina
 
 ---
-## Su di me
+<!-- ## Su di me
 Mi chiamo Giovanni, alias Learntheropes.  
 Sono nato nel 1974 a Roma, ma sono cresciuto in una città sulla costa adriatica.  
 Parlo italiano madrelingua, spagnolo e inglese; mi è stato detto che ho un livello C1 in entrambi, anche se forse è un po' troppo generoso.  
@@ -11,7 +11,7 @@ Prima dell'era del Bitcoin ero un marinaio professionista e costruttore di barch
 Ho scoperto Bitcoin nel 2013 e, nel febbraio 2014, ho iniziato a lavorare presso Localbitcoins Oy come agente di supporto e prevenzione delle frodi.  
 Questo lavoro remoto mi ha permesso di trasferirmi in America Latina, un continente che sto esplorando dal 2001, trascorrendo il mio tempo tra Argentina, Paraguay e un po' di Messico.  
 Ero in visita a Guadalajara perché avevamo una filiale lì, ma ho vissuto in Argentina per quasi 4 anni come immigrato irregolare, prima di trasferirmi definitivamente in Paraguay, dove sto lavorando per ottenere la naturalizzazione.  
-Sono stato un anarchico di sinistra per la maggior parte della mia vita, cresciuto in una famiglia e con amici socialisti. Quando ho scoperto il Bitcoin, ho iniziato a comprendere meglio l'economia e sono diventato un libertario, concentrandomi più sul beneficio personale che posso ottenere che sull'"ideologia" stessa.
+Sono stato un anarchico di sinistra per la maggior parte della mia vita, cresciuto in una famiglia e con amici socialisti. Quando ho scoperto il Bitcoin, ho iniziato a comprendere meglio l'economia e sono diventato un libertario, concentrandomi più sul beneficio personale che posso ottenere che sull'"ideologia" stessa. -->
 
 <!-- ## Residenza
 Sono residente permanente e fiscale in Paraguay dal 2017, quando ho rinunciato alla mia residenza italiana.
