@@ -1,0 +1,31 @@
+.is-tall {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.is-tall-container {
+  flex: 1;
+}
+
+.content {
+  code {
+    color: $primary
+  }
+  h2 {
+    font-size: 1.75em;
+    a { 
+      span {
+        display: none;
+      }
+    }
+  }
+  h3 {
+    font-size: 1em;
+    a { 
+      span {
+        display: none;
+      }
+    }
+  }
+}
