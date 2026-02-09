@@ -2,8 +2,8 @@
 title: Giovanni LearnTheRopes
 description: Bitcoin and LatAm early adopter
 ---
-## About
-<!-- My name is Giovanni, aka Learntheropes.  
+<!-- ## About
+My name is Giovanni, aka Learntheropes.  
 I was born in 1974 in Rome, but I grew up in a town on the Adriatic coast.  
 I speak native italian native, spanish and english, both C1 level. I've been told but maybe it is a bit too generous.  
 Before the Bitcoin era I was a professional sailor and boat builder specialized in sailing yachts and I visited almost any port from Istanbul to Miami.  
