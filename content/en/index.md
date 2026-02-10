@@ -1,6 +1,6 @@
 ---
 title: Giovanni LearnTheRopes
-description: Bitcoin and LatAm early adopter
+description: Full-stack web developer focused on payment infrastructure and Bitcoin
 ---
 <!-- ## About
 My name is Giovanni, aka Learntheropes.  

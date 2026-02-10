@@ -1,6 +1,6 @@
 ---
 title: Giovanni LearnTheRopes
-description: Adottante precoce di Bitcoin e dell' America Latina
+description: Sviluppatore web full-stack focalizzato su infrastrutture di pagamento e Bitcoin
 
 ---
 <!-- ## Su di me

@@ -1,6 +1,6 @@
 ---
 title: Giovanni LearnTheRopes
-description: Adoptante temprano de Bitcoin y de América Latina
+description: Desarrollador web full-stack enfocado en infraestructura de pagos y Bitcoin
 ---
 <!-- ## Acerca de mi
 Mi nombre es Giovanni, alias Learntheropes.  
