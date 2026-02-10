@@ -105,7 +105,7 @@ PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://keys.openpgp.org/vks/v1/
 Nostr: [giovanni@learntheropes.xyz](https://yakihonne.com/users/giovanni@learntheropes.xyz) 
 Lightning Network: `giovanni@learntheropes.xyz`  
 Telegram: [giovanni_learntheropes_xyz](https://t.me/giovanni_learntheropes_xyz)  
-X: [giovanni_learntheropes_xyz](https://x.com/_learntheropes_)  
+<!-- X: [\_learntheropes\_](https://x.com/_learntheropes_)   -->
 Signal: [learntheropes.56](https://signal.me/#eu/XMZTlmx1Jr5ni113eoQGJFKK_fOsmUIyIUlg8nWqZKn-2xi871FInY8Aa7ANVl6T)  
 Github: [learntheropes](https://github.com/learntheropes)  
 Linkedin: [learntheropes](https://www.linkedin.com/in/learntheropes/)  
