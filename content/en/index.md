@@ -100,7 +100,7 @@ For Lightning Network I use Zeus connected to my own LND node.   -->
 ## Contacts
 Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
 PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://keys.openpgp.org/vks/v1/by-fingerprint/B683932A2E5629234C48605E5CF45E311D1FB753)  
-Nostr: [giovanni@learntheropes.xyz](https://iris.to/giovanni@learntheropes.xyz)  
+Nostr: [giovanni@learntheropes.xyz](https://njump.me/giovanni@learntheropes.xyz)  
 Lightning Network: `giovanni@learntheropes.xyz`   
 Telegram: [giovanni_learntheropes_xyz](https://t.me/giovanni_learntheropes_xyz)  
 <!-- X: [\_learntheropes\_](https://x.com/_learntheropes_)   -->
