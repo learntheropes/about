@@ -3,6 +3,25 @@ const route = useRoute()
 const { locale, t, locales, defaultLocale, setLocale } = useI18n()
 const localePath = useLocalePath()
 
+// Check if current path needs language prefix redirect
+const checkLanguagePrefix = () => {
+  const path = route.path
+  const supportedLocales = locales.value.map(l => typeof l === 'string' ? l : l.code)
+  
+  // If path is '/' or doesn't start with a supported locale, redirect
+  if (path === '/' || !supportedLocales.some(locale => path.startsWith(`/${locale}/`))) {
+    return true
+  }
+  return false
+}
+
+// Redirect to path with language prefix if needed
+onMounted(() => {
+  if (checkLanguagePrefix()) {
+    navigateTo(localePath('/'), { replace: true })
+  }
+})
+
 
 const key = computed(() => `${route.path}-${locale.value}`)
 
