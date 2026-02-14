@@ -7,7 +7,7 @@ description: Sviluppatore web full-stack focalizzato su infrastrutture di pagame
 
 ### P2PayTo
 Sviluppatore principale di [P2PayTo](https://p2pay.to).  
-Sto costruendo un’infrastruttura di pagamento P2P multi-rail open source, con BTCPay Server come backend, che consente liquidazioni fiat-to-Bitcoin senza KYC e con pieno controllo self-custodial per il merchant.
+Un’infrastruttura di pagamento P2P multi-rail open source, con BTCPay Server come backend, che consente liquidazioni fiat-to-Bitcoin senza KYC e con pieno controllo self-custodial per il merchant.
 
 ### Blockchange
 Sono il fondatore di [Blockchange](https://blockchange.expert).  
