@@ -3,26 +3,6 @@ const route = useRoute()
 const { locale, t, locales, defaultLocale, setLocale } = useI18n()
 const localePath = useLocalePath()
 
-const pickLocale = () => {
-  const raw = String(navigator.language || '').toLowerCase()
-  const base = raw.split('-')[0]
-
-  const supported = locales.value.map(l =>
-    typeof l === 'string' ? l : l.code
-  )
-
-  return supported.includes(base)
-    ? base
-    : defaultLocale.value
-}
-
-// Redirect to brower's language or default locale
-onMounted(async () => {
-  const target = pickLocale()
-  await setLocale(target)
-  navigateTo(localePath('/btcpay-registration/', target), { replace: true })
-})
-
 const key = computed(() => `${route.path}-${locale.value}`)
 
 const { data, pending, error } = await useAsyncData(
