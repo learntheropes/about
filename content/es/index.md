@@ -30,7 +30,7 @@ PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://pgp.learntheropes.xyz)
 Nostr: [giovanni@learntheropes.xyz](https://njump.me/giovanni@learntheropes.xyz)  
 Lightning Network: `giovanni@learntheropes.xyz`  
 Telegram: [giovanni_learntheropes_xyz](https://t.me/giovanni_learntheropes_xyz)  
-Signal: [learntheropes.74](https://signal.me/#us/ix_WwEIPG_38ncxe_Sw3FP3oc5fGhxibKSrYQuQLsyjHyOXf9GlMtqUd3JiO8bvG)  
+Signal: [learntheropes.74](https://signal.learntheropes.xyz)  
 GitHub: [learntheropes](https://github.com/learntheropes)  
 LinkedIn: [learntheropes](https://www.linkedin.com/in/learntheropes/)  
 SimpleX y Session bajo solicitud
