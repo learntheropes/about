@@ -41,4 +41,4 @@ Telegram: [giovanni_learntheropes_xyz](https://t.me/giovanni_learntheropes_xyz)
 Signal: [learntheropes.74](https://signal.learntheropes.xyz)  
 GitHub: [learntheropes](https://github.com/learntheropes)  
 LinkedIn: [learntheropes](https://www.linkedin.com/in/learntheropes/)  
-SimpleX e Session su richiesta
+SimpleX su richiesta
