@@ -29,6 +29,7 @@ If you discover my real full name (first and last) through publicly available on
 - the full name you found  
 - a step-by-step explanation of how you found it  
 - your Lightning Network address  
+
 I will send a bounty in an amount I decide. More complex or challenging research may be rewarded with a higher bounty.  
 
 ## Contacts

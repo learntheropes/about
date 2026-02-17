@@ -29,6 +29,7 @@ Si encuentras mi nombre completo real (nombre y apellido) a través de fuentes p
 - el nombre completo que encontraste  
 - una explicación paso a paso de cómo lo encontraste  
 - tu dirección de Lightning Network  
+
 Enviaré una recompensa por un monto a mi discreción. Cuanto más complejo o difícil haya sido el proceso, mayor podrá ser la recompensa.  
 
 ## Contacto

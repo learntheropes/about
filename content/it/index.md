@@ -29,6 +29,7 @@ Se trovi il mio nome completo reale (nome e cognome) tramite fonti online pubbli
 - il nome completo trovato  
 - una spiegazione passo per passo di come lo hai trovato  
 - il tuo indirizzo Lightning Network  
+
 Invierò una ricompensa in un importo a mia discrezione. Più il processo sarà complesso o difficile, maggiore potrà essere la ricompensa.  
 
 ## Contatti
