@@ -108,6 +108,7 @@ export default defineNuxtConfig({
   content: {
     locales: localeCodes,
     defaultLocale,
+    experimental: { nativeSqlite: true },
   },
 
   delayHydration: {

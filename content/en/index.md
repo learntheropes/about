@@ -24,6 +24,13 @@ Once enabled, follow [these guides](https://github.com/p2payto/help/wiki) for th
 Head of Operations at [Peach Bitcoin](https://peachbitcoin.com).   
 A P2P, KYC-free, privacy-oriented Bitcoin exchange.
 
+## OSINT bounty program
+If you discover my real full name (first and last) through publicly available online sources, contact me using one of the links below. Include:  
+- the full name you found  
+- a step-by-step explanation of how you found it  
+- your Lightning Network address  
+I will send a bounty in an amount I decide. More complex or challenging research may be rewarded with a higher bounty.  
+
 ## Contacts
 Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
 PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://pgp.learntheropes.xyz)  

@@ -24,6 +24,13 @@ Una vez habilitada, sigue [estas guías](https://github.com/p2payto/help/wiki) p
 Head of Operations en [Peach Bitcoin](https://peachbitcoin.com).
 Un exchange P2P de Bitcoin sin KYC y orientado a la privacidad.
 
+## Programa de recompensa OSINT  
+Si encuentras mi nombre completo real (nombre y apellido) a través de fuentes públicas disponibles en internet, contáctame usando uno de los enlaces de abajo. Incluye:  
+- el nombre completo que encontraste  
+- una explicación paso a paso de cómo lo encontraste  
+- tu dirección de Lightning Network  
+Enviaré una recompensa por un monto a mi discreción. Cuanto más complejo o difícil haya sido el proceso, mayor podrá ser la recompensa.  
+
 ## Contacto
 Email: [giovanni@learntheropes.xyz](mailto:giovanni@learntheropes.xyz)  
 PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://pgp.learntheropes.xyz)  
