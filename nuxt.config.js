@@ -1,5 +1,5 @@
 const isDeployed = process.env.NODE_ENV === 'production';
-const deploymentDomain = process.env.URL || 'http://localhost:3000'
+const deploymentDomain = process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3000'
 import {
   locales,
   localeCodes,
