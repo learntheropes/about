@@ -10,7 +10,7 @@ function copyFileIfExists(src, dst) {
 }
 
 function main() {
-  const baseURL = process.env.NUXT_APP_BASE_URL || '/'
+  const baseURL = process.env.NUXT_PUBLIC_SITE_URL || '/'
   const baseFolder = baseURL.replace(/^\/|\/$/g, '') // "blockchange-nuxthub" or ""
   const outRoot = path.resolve(process.cwd(), '.output/public')
 
