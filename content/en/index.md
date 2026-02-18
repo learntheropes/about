@@ -5,15 +5,15 @@ description: Full-stack web developer focused on payment infrastructure and Bitc
 
 ## What I do
 
-### P2PayTo
-Main developer at [P2PayTo](https://p2pay.to).  
+### P2Pay
+Main developer at [P2Pay](https://p2pay.to).  
 An open-source, multi-rail P2P payment infrastructure with BTCPay Server as the backend, enabling KYC-free fiat-to-Bitcoin settlement with full self-custodial merchant control.
 
 ### Blockchange
 Founder of [Blockchange](https://blockchange.expert).  
 We design complete value flows across cards, banks, and local rails, with final settlement in Bitcoin or digital dollars.  
 Blockchange is a consultancy focused on multi-rail payment infrastructure with settlement in Bitcoin or stablecoins.    
-We are building a self-custodial, one-click deployment infrastructure for marketplaces that want to integrate a multi-rail payment system for their users.  
+We are building a self-custodial, one-click deployment infrastructure for marketplaces that want to integrate a multi-rail payment system for their users, based on [P2Pay](https://p2pay.to)
 
 ### BTCPay Server
 Running a [BTCPay Server instance](https://learntheropes.xyz).  
