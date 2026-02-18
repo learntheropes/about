@@ -13,7 +13,7 @@ An open-source, multi-rail P2P payment infrastructure with BTCPay Server as the 
 Founder of [Blockchange](https://blockchange.expert).  
 We design complete value flows across cards, banks, and local rails, with final settlement in Bitcoin or digital dollars.  
 Blockchange is a consultancy focused on multi-rail payment infrastructure with settlement in Bitcoin or stablecoins.    
-We are building a self-custodial, one-click deployment infrastructure for marketplaces that want to integrate a multi-rail payment system for their users, based on [P2Pay](https://p2pay.to)
+We are building a self-custodial, one-click deployment infrastructure for marketplaces that want to integrate a multi-rail payment system for their users, based on [P2Pay](https://p2pay.to).
 
 ### BTCPay Server
 Running a [BTCPay Server instance](https://learntheropes.xyz).  
