@@ -3,10 +3,12 @@ title: Giovanni aka learntheropes
 description: Desarrollador web full-stack enfocado en infraestructura de pagos y Bitcoin
 ---
 
+*“Learn the ropes” significa comprender las habilidades básicas, los procedimientos y el funcionamiento esencial de un nuevo trabajo, tarea o actividad. Se refiere a familiarizarse con la manera en que funcionan las cosas, a menudo durante un período inicial de formación u orientación. La expresión proviene de la navegación del siglo XVII, cuando los nuevos marineros tenían que aprender a dominar las cuerdas del aparejo.*
+
 ## Qué hago
 
-### P2Pay
-Desarrollador principal en [P2Pay](https://p2pay.to).  
+### P2Payments
+Desarrollador principal en [P2Payments](https://p2payments.com).  
 Una infraestructura de pagos P2P multi-rail y de código abierto, con BTCPay Server como backend, que permite liquidaciones fiat-a-Bitcoin sin KYC y con control totalmente autocustodiado para el comerciante.
 
 ### Blockchange

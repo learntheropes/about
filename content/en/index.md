@@ -3,10 +3,12 @@ title: Giovanni aka learntheropes
 description: Full-stack web developer focused on payment infrastructure and Bitcoin
 ---
 
+*"Learn the ropes" means to understand the basic skills, procedures, and essential workings of a new job, task, or activity. It refers to becoming familiar with how things work, often during an initial training or orientation period. The idiom stems from 17th-century sailing, where new sailors had to master rigging ropes.*
+
 ## What I do
 
-### P2Pay
-Main developer at [P2Pay](https://p2pay.to).  
+### P2Payments
+Main developer at [P2Payments](https://p2payments.com).  
 An open-source, multi-rail P2P payment infrastructure with BTCPay Server as the backend, enabling KYC-free fiat-to-Bitcoin settlement with full self-custodial merchant control.
 
 ### Blockchange
@@ -18,7 +20,7 @@ We are building a self-custodial, one-click deployment infrastructure for market
 ### BTCPay Server
 Running a [BTCPay Server instance](https://learntheropes.xyz).  
 Feel free to contact me to enable your account (open registration is currently disabled due to spam and abuse).  
-Once enabled, follow [these guides](https://github.com/p2payto/help/wiki) for the most user-friendly wallet setup.    
+Once enabled, follow [these guides](https://github.com/p2payments/help/wiki) for the most user-friendly wallet setup.    
 
 ### Peach Bitcoin
 Head of Operations at [Peach Bitcoin](https://peachbitcoin.com).   
