@@ -9,12 +9,7 @@ description: Sviluppatore web full-stack focalizzato su infrastrutture di pagame
 
 ### P2Pagos
 Sviluppatore principale di [P2Pagos](https://p2pagos.com).  
-Un’infrastruttura di pagamento P2P multi-rail open source, con BTCPay Server come backend, che consente liquidazioni fiat-to-Bitcoin senza KYC e con pieno controllo self-custodial per il merchant.
-
-### Blockchange
-Sono il fondatore di [Blockchange](https://blockchange.expert).  
-Progettiamo flussi di valore completi tra carte, banche e rail locali, con liquidazione finale in Bitcoin o dollari digitali.  
-Blockchange è una consulenza focalizzata su infrastrutture di pagamento multi-rail con settlement in Bitcoin o stablecoin.  
+Orchestriamo pagamenti multimodali senza attriti tra paesi e tecnologie con corso legale e blockchain, con il primo approccio per l'edilizia e il settore immobiliare in Paraguay e in America Latina.
 
 ### BTCPay Server
 Amministratore di un’istanza di [BTCPay Server](https://learntheropes.xyz).  

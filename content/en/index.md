@@ -1,5 +1,5 @@
 ---
-title: Giovanni aka learntheropes
+title: Giovanni LPY  (learntheropes)
 description: Full-stack web developer focused on payment infrastructure and Bitcoin
 ---
 
@@ -8,13 +8,8 @@ description: Full-stack web developer focused on payment infrastructure and Bitc
 ## What I do
 
 ### P2Pagos
-Main developer at [P2Pagos](https://p2pagos.com).  
-An open-source, multi-rail P2P payment infrastructure with BTCPay Server as the backend, enabling KYC-free fiat-to-Bitcoin settlement with full self-custodial merchant control.
-
-### Blockchange
-Founder of [Blockchange](https://blockchange.expert).  
-We design complete value flows across cards, banks, and local rails, with final settlement in Bitcoin or digital dollars.  
-Blockchange is a consultancy focused on multi-rail payment infrastructure with settlement in Bitcoin or stablecoins.    
+CEO & Cofunder [P2Pagos](https://p2pagos.com).  
+We orchestrate frictionless multi-rail payments across countries and technologies with legal tender and blockchain with the first approach for construction and real estate in Paraguay and Latin America.
 
 ### BTCPay Server
 Running a [BTCPay Server instance](https://learntheropes.xyz).  
