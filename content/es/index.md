@@ -16,9 +16,10 @@ Administror de una instancia de [BTCPay Server](https://learntheropes.xyz).
 Puedes contactarme para habilitar tu cuenta (el registro abierto está actualmente desactivado debido a spam y abuso).  
 Una vez habilitada, sigue [estas guías](https://github.com/p2pagos/help/wiki) para la configuración más sencilla y amigable de tu wallet.
 
-### Peach Bitcoin
-Head of Operations en [Peach Bitcoin](https://peachbitcoin.com).
-Un exchange P2P de Bitcoin sin KYC y orientado a la privacidad.
+## Anteriormente
+Responsable de Disputas y Fraudes en [LocalBitcoins](https://localbitcoins.com) (2014-2023).  
+Responsable de Operaciones en [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).  
+Marinero (1992-2013).  
 
 ## Programa de recompensa OSINT  
 Si encuentras mi nombre completo real (nombre y apellido) a través de fuentes públicas disponibles en internet, contáctame usando uno de los enlaces de abajo. Incluye:  

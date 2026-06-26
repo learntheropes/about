@@ -16,9 +16,9 @@ Running a [BTCPay Server instance](https://learntheropes.xyz).
 Feel free to contact me to enable your account (open registration is currently disabled due to spam and abuse).  
 Once enabled, follow [these guides](https://github.com/p2payments/help/wiki) for the most user-friendly wallet setup.    
 
-### Peach Bitcoin
-Head of Operations at [Peach Bitcoin](https://peachbitcoin.com).   
-A P2P, KYC-free, privacy-oriented Bitcoin exchange.
+## Formerly
+Head of Disputes and Frauds at [Localbitcoins](https://localbitcoins.com) (2014-2023).  
+Head of Operations at [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).   
 
 ## OSINT bounty program
 If you discover my real full name (first and last) through publicly available online sources, contact me using one of the links below. Include:  
@@ -34,7 +34,7 @@ PGP: [B683932A2E5629234C48605E5CF45E311D1FB753](https://pgp.learntheropes.xyz)
 Nostr: [giovanni@learntheropes.xyz](https://njump.me/giovanni@learntheropes.xyz)  
 Lightning Network: `giovanni@learntheropes.xyz`  
 Telegram: [giovanni_learntheropes_xyz](https://t.me/giovanni_learntheropes_xyz)  
-Signal: [learntheropes.74](https://signal.learntheropes.xyz)  
+Signal: [learntheropes.21](https://signal.learntheropes.xyz)  
 GitHub: [learntheropes](https://github.com/learntheropes)  
 LinkedIn: [learntheropes](https://www.linkedin.com/in/learntheropes/)  
 SimpleX on request
