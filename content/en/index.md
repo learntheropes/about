@@ -1,6 +1,6 @@
 ---
-title: Giovanni LPY  (learntheropes)
-description: Full-stack web developer focused on payment infrastructure and Bitcoin
+title: Giovanni (learntheropes) LPY
+description: Full-Stack Web Developer | Startup Operations • Payment Infrastructure & Bitcoin | Since 2014
 ---
 
 *"Learn the ropes" means to understand the basic skills, procedures, and essential workings of a new job, task, or activity. It refers to becoming familiar with how things work, often during an initial training or orientation period. The idiom stems from 17th-century sailing, where new sailors had to master rigging ropes.*
@@ -19,6 +19,7 @@ Once enabled, follow [these guides](https://github.com/p2payments/help/wiki) for
 ## Formerly
 Head of Disputes and Frauds at [Localbitcoins](https://localbitcoins.com) (2014-2023).  
 Head of Operations at [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).   
+Sailor (1992-2013).  
 
 ## OSINT bounty program
 If you discover my real full name (first and last) through publicly available online sources, contact me using one of the links below. Include:  

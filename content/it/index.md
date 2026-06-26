@@ -1,6 +1,6 @@
 ---
-title: Giovanni aka learntheropes
-description: Sviluppatore web full-stack focalizzato su infrastrutture di pagamento e Bitcoin
+title: Giovanni (learntheropes) LPY
+description: Sviluppatore Web Full-Stack | Operazioni per startup • Infrastrutture di pagamento e Bitcoin | Dal 2014
 ---
 
 *“Learn the ropes” significa comprendere le competenze di base, le procedure e i meccanismi essenziali di un nuovo lavoro, compito o attività. Si riferisce al prendere familiarità con il modo in cui funzionano le cose, spesso durante un periodo iniziale di formazione o orientamento. L’espressione deriva dalla navigazione del XVII secolo, quando i nuovi marinai dovevano imparare a padroneggiare le corde del sartiame.*
