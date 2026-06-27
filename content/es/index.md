@@ -17,8 +17,8 @@ Puedes contactarme para habilitar tu cuenta (el registro abierto está actualmen
 Una vez habilitada, sigue [estas guías](https://github.com/p2pagos/help/wiki) para la configuración más sencilla y amigable de tu wallet.
 
 ## Anteriormente
-Responsable de Disputas y Fraudes en [LocalBitcoins](https://localbitcoins.com) (2014-2023).  
-Responsable de Operaciones en [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).  
+Responsable de Operaciones en [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).
+Responsable de Disputas y Fraudes en [LocalBitcoins](https://localbitcoins.com) (2014-2023).    
 Marinero (1992-2013).  
 
 ## Programa de recompensa OSINT  

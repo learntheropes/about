@@ -17,8 +17,8 @@ Puoi contattarmi per abilitare il tuo account (la registrazione pubblica è attu
 Una volta abilitato, segui [queste guide](https://github.com/p2payto/help/wiki) per una configurazione wallet semplice e intuitiva.
 
 ## In precedenza   
-Responsabile di Controversie e Frodi presso [LocalBitcoins](https://localbitcoins.com) (2014-2023).  
 Responsabile delle Operazioni presso [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).  
+Responsabile di Controversie e Frodi presso [LocalBitcoins](https://localbitcoins.com) (2014-2023).  
 Marinaio (1992-2013).  
 
 ### Programma di ricompensa OSINT

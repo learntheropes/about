@@ -17,8 +17,8 @@ Feel free to contact me to enable your account (open registration is currently d
 Once enabled, follow [these guides](https://github.com/p2payments/help/wiki) for the most user-friendly wallet setup.    
 
 ## Formerly
-Head of Disputes and Frauds at [Localbitcoins](https://localbitcoins.com) (2014-2023).  
-Head of Operations at [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).   
+Head of Operations at [Peach Bitcoin](https://peachbitcoin.com) (2024-2026).
+Head of Disputes and Frauds at [Localbitcoins](https://localbitcoins.com) (2014-2023).     
 Sailor (1992-2013).  
 
 ## OSINT bounty program
