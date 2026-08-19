@@ -3,6 +3,8 @@ title: Giovanni (learntheropes) LPY
 description: Operazioni per Startup • Infrastrutture di Pagamento e Bitcoin • IA
 ---
 
+**Nomade analogico, sedentario digitale.**
+
 *"Learn the ropes" significa comprendere le competenze di base, le procedure e i meccanismi essenziali di un nuovo lavoro, compito o attività. Si riferisce al prendere familiarità con il modo in cui funzionano le cose, spesso durante un periodo iniziale di formazione o orientamento. L'espressione deriva dalla navigazione del XVII secolo, quando i nuovi marinai dovevano imparare a padroneggiare le corde del sartiame.*
 
 ## Cosa faccio  
