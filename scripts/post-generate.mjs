@@ -5,17 +5,8 @@ function ensureDir(p) {
   fs.mkdirSync(p, { recursive: true })
 }
 
-function copyFileIfExists(src, dst) {
-  if (fs.existsSync(src)) fs.copyFileSync(src, dst)
-}
-
 function main() {
-  const baseURL = process.env.NUXT_PUBLIC_SITE_URL || '/'
-  const baseFolder = baseURL.replace(/^\/|\/$/g, '') // "blockchange-nuxthub" or ""
-  const outRoot = path.resolve(process.cwd(), '.output/public')
-
-  // If baseURL is /blockchange-nuxthub/ Nuxt may output into .output/public/blockchange-nuxthub
-  const outDir = baseFolder ? path.join(outRoot, baseFolder) : outRoot
+  const outDir = path.resolve(process.cwd(), '.output/public')
 
   ensureDir(outDir)
 
@@ -25,7 +16,6 @@ function main() {
 
   if (fs.existsSync(html200)) {
     fs.copyFileSync(html200, indexHtml)
-  } else if (!fs.existsSync(indexHtml)) {
   }
 
   // Disable Jekyll processing

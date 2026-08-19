@@ -102,7 +102,8 @@ export default defineNuxtConfig({
     langDir: 'lang',
     strategy: 'prefix',
     detectBrowserLanguage: false,
-    trailingSlash: true
+    trailingSlash: true,
+    rootRedirect: defaultLocale
   },
 
   content: {
