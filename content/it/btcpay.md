@@ -4,9 +4,9 @@ description: Registrarti alla mia istanza BTCPay Server
 ---
 
 La registrazione pubblica degli utenti è disabilitata a causa di abusi e spam.  
-Per registrare il tuo utente, invia un'email a [giovanni@lpy.lat](mailto:giovanni@lpy.lat) dall'indirizzo che desideri registrare.  
+Per registrare il tuo utente, [invia un'email](mailto:giovanni@lpy.lat) dall'indirizzo che desideri registrare.  
 
-Usando PGP verrai approvato automagicamente :) [DA446D1A7A284885D7680F10322BB3D9118454CA](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA)
+Usando PGP verrai approvato automagicamente [DA446D1A7A284885D7680F10322BB3D9118454CA](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA)
 
 Includi una breve descrizione dell'utilizzo previsto.  
 

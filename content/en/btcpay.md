@@ -4,9 +4,9 @@ description: Register for my BTCPay Server instance
 ---
 
 Public user registration is disabled due to abuse and spam.  
-To register your user, write an email to [giovanni@lpy.lat](mailto:giovanni@lpy.lat) from the address you want to register with.  
+To register your user, [write an email](mailto:giovanni@lpy.lat) from the address you want to register with.  
 
-By using PGP you will be automagically approved :) [DA446D1A7A284885D7680F10322BB3D9118454CA](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA)
+By using PGP you will be automagically approved [DA446D1A7A284885D7680F10322BB3D9118454CA](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA)
 
 Include a brief description of the planned usage.  
 
