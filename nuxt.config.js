@@ -4,7 +4,7 @@ import {
   locales,
   localeCodes,
   defaultLocale,
-} from './assets/js/localization';
+} from './app/assets/js/localization';
 
 export default defineNuxtConfig({
 
@@ -65,7 +65,7 @@ export default defineNuxtConfig({
   },
 
   css: [
-    '~/assets/scss/main.scss',
+    '~/assets/css/main.css',
   ],
 
   components: [{
@@ -75,11 +75,25 @@ export default defineNuxtConfig({
   }],
 
   modules: [
+    '@nuxt/ui',
     '@nuxtjs/i18n',
     '@nuxt/content',
     'nuxt-delay-hydration',
     'nuxt-umami'
   ],
+
+  ui: {
+    experimental: {
+      componentDetection: true
+    }
+  },
+
+  colorMode: {
+    preference: 'system',
+    fallback: 'light',
+    classSuffix: '',
+    storageKey: 'nuxt-color-mode'
+  },
 
   umami: {
     enabled: (isDeployed) ? true : false,
@@ -98,11 +112,9 @@ export default defineNuxtConfig({
     baseUrl: deploymentDomain,
     locales,
     defaultLocale,
-    lazy: true,
     langDir: 'lang',
     strategy: 'prefix',
     detectBrowserLanguage: false,
-    trailingSlash: true,
     rootRedirect: defaultLocale
   },
 

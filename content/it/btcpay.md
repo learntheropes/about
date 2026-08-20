@@ -1,5 +1,6 @@
 ---
 title: Learntheropes BTCPay Server
+description: Registrarti alla mia istanza BTCPay Server
 ---
 
 La registrazione pubblica degli utenti è disabilitata a causa di abusi e spam.  

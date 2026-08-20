@@ -1,5 +1,6 @@
 ---
 title: Learntheropes BTCPay Server
+description: Register for my BTCPay Server instance
 ---
 
 Public user registration is disabled due to abuse and spam.  

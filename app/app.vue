@@ -5,8 +5,8 @@ const {
 </script>
 
 <template>
-  <div>
+  <UApp>
     <NuxtPage :key="path" />
-  </div>
+  </UApp>
 </template>
 

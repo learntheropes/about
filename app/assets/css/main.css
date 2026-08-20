@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import "@nuxt/ui";
+
+@theme static {
+  --color-bitcoin-50: #fef8f1;
+  --color-bitcoin-100: #fdf1e3;
+  --color-bitcoin-200: #fde1bf;
+  --color-bitcoin-300: #fbca8e;
+  --color-bitcoin-400: #f9ab4e;
+  --color-bitcoin-500: #f7931a;
+  --color-bitcoin-600: #de7d08;
+  --color-bitcoin-700: #b66706;
+  --color-bitcoin-800: #9e5906;
+  --color-bitcoin-900: #8d4e01;
+  --color-bitcoin-950: #512d01;
+}
+
+/* Nuxt Content heading anchors: keep the link, hide its label */
+.prose h2 a span,
+.prose h3 a span {
+  display: none;
+}
+
+.prose a code {
+  color: var(--ui-primary);
+}
+</content>

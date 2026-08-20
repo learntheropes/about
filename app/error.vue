@@ -39,17 +39,17 @@ const handleError = () => clearError({ redirect: `/${locale.value}` });
 </script>
 
 <template>
-  <div class="hero is-fullheight">
-    <div class="hero-body">
-      <div class="container has-text-centered">
-        <p class="title">{{ translatedErrorMessage }}</p>
-        <DevOnly v-if="props.error.statusCode !== 404"> 
-          <div class="block content">
+  <UApp>
+    <div class="min-h-screen flex items-center justify-center text-center px-6">
+      <div>
+        <p class="text-3xl font-bold">{{ translatedErrorMessage }}</p>
+        <DevOnly v-if="props.error.statusCode !== 404">
+          <div class="mt-4 text-left text-sm text-muted">
             <div>{{ error.statusMessage || error.message }}</div>
             <div>{{ error.stack }}</div>
           </div>
         </DevOnly>
       </div>
     </div>
-  </div>
+  </UApp>
 </template>
