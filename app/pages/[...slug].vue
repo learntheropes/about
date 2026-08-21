@@ -1,4 +1,6 @@
 <script setup>
+import { localeCodes } from '~/assets/js/localization'
+
 const route = useRoute()
 const { locale } = useI18n()
 
@@ -21,37 +23,47 @@ const { data } = await useAsyncData(
 )
 
 if (!data.value) {
-  throw createError({
-    statusCode: 404,
-    statusMessage: `Content not found for path: ${contentPath.value} (${locale.value})`
-  })
+  // A bare locale root (e.g. /it, reached from error.vue's "back to home" button
+  // on a broken /it/... link) has no content of its own — send it to that
+  // locale's actual home page instead of 404ing again.
+  const bareLocaleRoot = new RegExp(`^/(${localeCodes.join('|')})$`).test(contentPath.value)
+  if (bareLocaleRoot) {
+    await navigateTo(`${contentPath.value}/building`, { redirectCode: 301 })
+  } else {
+    throw createError({
+      statusCode: 404,
+      statusMessage: `Content not found for path: ${contentPath.value} (${locale.value})`
+    })
+  }
 }
 
-useHead({
-  title: data.value.title,
-  meta: [
-    {
-      id: 'description',
-      name: 'description',
-      content: data.value.description
-    },
-    {
-      id: 'og:title',
-      name: 'og:title',
-      content: data.value.title
-    },
-    {
-      id: 'og:description',
-      name: 'og:description',
-      content: data.value.description
-    },
-  ],
-});
+if (data.value) {
+  useHead({
+    title: data.value.title,
+    meta: [
+      {
+        id: 'description',
+        name: 'description',
+        content: data.value.description
+      },
+      {
+        id: 'og:title',
+        name: 'og:title',
+        content: data.value.title
+      },
+      {
+        id: 'og:description',
+        name: 'og:description',
+        content: data.value.description
+      },
+    ],
+  });
+}
 </script>
 
 
 <template>
-  <NuxtLayout>
+  <NuxtLayout v-if="data">
     <div class="max-w-3xl mx-auto p-6">
       <h1 class="text-3xl font-bold text-primary">{{ data.title }}</h1>
       <p v-if="data.description" class="text-lg text-muted mt-2">{{ data.description }}</p>

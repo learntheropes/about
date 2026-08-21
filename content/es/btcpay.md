@@ -1,6 +1,6 @@
 ---
 title: Learntheropes BTCPay Server
-description: Registrarte en mi instancia de BTCPay Server
+description: Usa mi instancia de BTCPay Server para recibir pagos en BTC y USDT
 ---
 
 El registro público de usuarios está deshabilitado debido a abuso y spam.  

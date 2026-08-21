@@ -1,5 +1,12 @@
 
 <script setup>
+defineProps({
+  showLocaleSwitcher: {
+    type: Boolean,
+    default: true
+  }
+})
+
 const i18nHead = useLocaleHead({})
 useHead({
   htmlAttrs: {
@@ -19,6 +26,6 @@ useHead({
     <main class="flex-1">
       <slot />
     </main>
-    <LayoutFooter />
+    <LayoutFooter :show-locale-switcher="showLocaleSwitcher" />
   </div>
 </template>

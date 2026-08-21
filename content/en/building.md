@@ -40,8 +40,6 @@ You are welcome to contact me to enable your account (open registration is curre
 - [BTCPay Instance](https://btcpay.lpy.lat)
 - [BTCPay registration](/en/btcpay)
 
----
-
 ## Formerly
 
 **Head of Operations and Compliance** & **Development** @ Peach SARL  
@@ -69,16 +67,9 @@ We scaled from a team of 4 to a multicontinental team of 80+ in 10 years, genera
 
 In the pre-bitcoin era I was a sailor, sailing about 10K nautical miles in the Med Sea & Atlantic Ocean.
 
----
+## CV
 
-## OSINT bounty program
+::download-cv{filename="glpy-cv.pdf"}
+::
 
-If you find my real full name through publicly available online sources, contact me using one of the links below.
 
-Include:
-
-- the full name you found
-- a step-by-step explanation of how you found it
-- your Lightning Network address
-
-I will send a bounty in an amount I decide. More complex or challenging research may be rewarded with a higher bounty.

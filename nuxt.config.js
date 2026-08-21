@@ -1,9 +1,5 @@
-const isDeployed = process.env.NODE_ENV === 'production';
-const deploymentDomain = process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3000'
-import {
-  locales,
-  localeCodes,
-} from './app/assets/js/localization';
+import { isDeployed, deploymentDomain } from './app/assets/js/deployment';
+import { locales, localeCodes } from './app/assets/js/localization';
 
 export default defineNuxtConfig({
 
@@ -119,7 +115,7 @@ export default defineNuxtConfig({
       routes: [
         '/',
         ...localeCodes.flatMap((code) =>
-          ['building', 'biosophy', 'btcpay'].map((slug) => `/${code}/${slug}`)
+          ['building', 'biosophy', 'btcpay', 'guru'].map((slug) => `/${code}/${slug}`)
         )
       ]
     }

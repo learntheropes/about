@@ -40,8 +40,6 @@ Podés contactarme para habilitar tu cuenta (el registro abierto está actualmen
 - [Instancia BTCPay](https://btcpay.lpy.lat)
 - [Registro en BTCPay](/es/btcpay)
 
----
-
 ## Anteriormente
 
 **Head of Operations and Compliance** y **Development** @ Peach SARL  
@@ -69,16 +67,7 @@ Crecimos de un equipo de 4 personas a un equipo multicontinental de 80+ en 10 a�
 
 En la era pre-bitcoin fui marinero, navegando unas 10K millas náuticas en el Mar Mediterráneo y el Océano Atlántico.
 
----
+## CV
 
-## Programa de recompensa OSINT
-
-Si encontrás mi nombre completo real a través de fuentes públicas disponibles en internet, contactame usando uno de los enlaces de abajo.
-
-Incluí:
-
-- el nombre completo que encontraste
-- una explicación paso a paso de cómo lo encontraste
-- tu dirección de Lightning Network
-
-Enviaré una recompensa por un monto a mi discreción. Cuanto más complejo o desafiante sea el proceso, mayor podrá ser la recompensa.
+::download-cv{filename="glpy-cv.pdf"}
+::

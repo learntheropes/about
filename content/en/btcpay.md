@@ -1,6 +1,6 @@
 ---
 title: Learntheropes BTCPay Server
-description: Register for my BTCPay Server instance
+description: Use my BTCPay Server instance to receive payments in BTC and USDT
 ---
 
 Public user registration is disabled due to abuse and spam.  

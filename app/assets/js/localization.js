@@ -11,7 +11,8 @@ export const locales = [
     code: 'en',
     file: 'en.js',
     language: 'en-US',
-    name: 'English'
+    name: 'English',
+    default: true
   },
   {
     code: 'it',
