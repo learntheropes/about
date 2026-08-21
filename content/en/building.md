@@ -1,17 +1,17 @@
 ---
 title: Giovanni (learntheropes) LPY
-description: Startup Operations • Payment Infrastructure & Bitcoin • AI
+description: Startup Ops • Bitcoin & Payments • AI • Emerging Markets
 ---
 
-## What I do
+## Currently building
 
-<h3 style="display:inline;">Cofounder, CEO, CCO, senior developer @ Paguaitu</h3>
+### Cofounder, CEO, CCO, senior developer @ Paguaitu
 
-<i style="font-size: 16px;">PY EAS & CH Verein</i>
+*PAGUAITU EAS (Asunción, PY)*: We develop software to grow international sales with blockchain-assisted technologies combined with traditional banking for multi-rail payments and with multi-agent AI-driven technologies for marketing. Our first approach is for construction and real estate in Paraguay and Latin America, with a real estate and agricultural lands fund on the roadmap.
 
-Where we develop software to grow international sales with blockchain-assisted technologies combined with traditional banking for multi-rail payments and with multi-agent AI-driven technologies for marketing with a sovereign approach.
+*PAGUAITU Verein (Lugano, CH)*: The software cores and most of the plugins targeting informal and high-risk businesses are MIT licensed.
 
-The software cores and most of the plugins targeting informal and high-risk businesses are MIT licensed, while the cloud version and other plugins addressing mid-size fully compliant businesses are proprietary software.
+*PAGUAITU EAS (Asunción, PY)*: The cloud version and other plugins addressing mid-size fully compliant businesses are proprietary software.
 
 We don't reinvent the wheel but build on top of the most well maintained and funded open source software, such as [Trust Wallet Core](https://github.com/trustwallet/wallet-core), [BTCPay Greenfield API](https://github.com/btcpayserver/btcpayserver), [PayRam](https://github.com/Payram), [LiteLLM](https://github.com/BerriAI/litellm), and [Grok Build](https://github.com/xai-org/grok-build), and many API and MCP integrations.
 
@@ -20,20 +20,18 @@ We don't reinvent the wheel but build on top of the most well maintained and fun
 
 ---
 
-<h3 style="display:inline;">Solopreneur @ Fantasia lat/ina</h3>
+### Solopreneur @ Fantasia lat/ina
 
-<i style="font-size: 16px;">NM LLC & PY RUC</i>
+*Fantasia latina RUC (Asunción, PY)*: I help SMEs from Paraguay to expand to the LatAm market with the AI-driven marketing tools and partially with the blockchain-based payment rails developed by Paguaitu Verein and with the logistical and legal structures matured in a decade of first-hand experience on the ground.
 
-Where I help SMEs from Paraguay to expand to the LatAm market and international companies to enter the LatAm market with Paraguay as a regional hub, using the blockchain and AI tools developed by Paguaitu.
+*Fantasia latina LLC (Albuquerque, NM, US)*: On the roadmap I want to help international companies to enter the LatAm market with Paraguay as a regional hub.
 
 - [Landing](https://fantasia.lat/ina)
 - [GitHub](https://github.com/fantasia-lat)
 
 ---
 
-<h3 style="display:inline;">BTCPay Server</h3>
-
-<i style="font-size: 16px;">Independent contributor</i>
+### BTCPay Server
 
 I'm a BTCPay Server [core](https://github.com/btcpayserver/btcpayserver/pulls?q=author%3Alearntheropes) and [plugins](https://github.com/btcpayserver-tether/BTCPayServer.Plugins.USDt/pulls?q=author%3Alearntheropes) contributor and I run a BTCPay Server [instance](https://btcpay.lpy.lat).
 

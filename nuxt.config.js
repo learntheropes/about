@@ -3,10 +3,11 @@ const deploymentDomain = process.env.NUXT_PUBLIC_SITE_URL || 'http://localhost:3
 import {
   locales,
   localeCodes,
-  defaultLocale,
 } from './app/assets/js/localization';
 
 export default defineNuxtConfig({
+
+  compatibilityDate: '2026-08-20',
 
   app: {
     head: {
@@ -36,12 +37,12 @@ export default defineNuxtConfig({
         {
           id: 'og:site_name',
           name: 'og:site_name',
-          content: 'Giovanni Learntheropes'
+          content: 'Giovanni (learntheropes) LPY'
         },
         {
           id: 'og:image',
           name: 'og:image',
-          content: `${deploymentDomain}/favicon/favicon.png`
+          content: `${deploymentDomain}/learn-glpy.png`
         },
         {
           id: 'twitter:card',
@@ -51,14 +52,14 @@ export default defineNuxtConfig({
         {
           id: 'twitter:image',
           name: 'twitter:image',
-          content: `${deploymentDomain}/favicon/favicon.png`
+          content: `${deploymentDomain}/learn-glpy.png`
         },
       ],
       link: [
         {
           rel: 'icon',
           type: 'image/x-icon',
-          href: '/favicon/favicon.ico'
+          href: '/favicon.ico'
         },
       ]
     },
@@ -108,19 +109,37 @@ export default defineNuxtConfig({
     },
   },
 
+  nitro: {
+    prerender: {
+      // Bare locale roots (e.g. /en) have no page: i18n seeds them for prerendering
+      // by default, but content lives under /en/building, /en/biosophy, etc.
+      ignore: localeCodes.map((code) => new RegExp(`^/${code}$`)),
+      // Nitro's static preset doesn't crawl "/" itself (it's reserved for the SPA
+      // shell), so its links are never discovered — list every real page explicitly.
+      routes: [
+        '/',
+        ...localeCodes.flatMap((code) =>
+          ['building', 'biosophy', 'btcpay'].map((slug) => `/${code}/${slug}`)
+        )
+      ]
+    }
+  },
+
   i18n: {
     baseUrl: deploymentDomain,
     locales,
-    defaultLocale,
     langDir: 'lang',
     strategy: 'prefix',
     detectBrowserLanguage: false,
-    rootRedirect: defaultLocale
+    // known i18n+prerender edge cases with definePageMeta({ i18n: false }) pages
+    // (e.g. nuxt-modules/i18n#3987); safe to disable since we don't use SSR redirects
+    experimental: {
+      nitroContextDetection: false
+    }
   },
 
   content: {
     locales: localeCodes,
-    defaultLocale,
     experimental: { nativeSqlite: true },
   },
 
@@ -136,4 +155,18 @@ export default defineNuxtConfig({
       },
     },
   },
+
+  hooks: {
+    // @nuxtjs/i18n unconditionally ignores "/" from prerendering when strategy is
+    // "prefix" + static (it assumes root only ever redirects, never has real content).
+    // We use "/" as a real, unprefixed language-picker page, so undo that ignore rule
+    // once i18n has added it (its own nitro:init hook runs before this fires).
+    'nitro:init': (nitro) => {
+      nitro.hooks.hook('prerender:routes', () => {
+        nitro.options.prerender.ignore = (nitro.options.prerender.ignore || []).filter(
+          (pattern) => !(pattern instanceof RegExp && pattern.source === '^\\/$')
+        )
+      })
+    }
+  }
 });

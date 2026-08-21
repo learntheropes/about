@@ -3,7 +3,4 @@ export default {
   unauthorized: 'Unauthorized',
   somethingWentWrong: 'Something went wrong',
   backToTheHomePage: 'Back to the home page',
-  navWork: 'Work',
-  navBiosophy: 'Biosophy',
-  navBtcpay: 'BTCPay',
 }

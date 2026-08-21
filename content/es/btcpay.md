@@ -6,7 +6,7 @@ description: Registrarte en mi instancia de BTCPay Server
 El registro público de usuarios está deshabilitado debido a abuso y spam.  
 Para registrar tu usuario, [envía un correo](mailto:giovanni@lpy.lat) desde la dirección que deseás registrar.  
 
-Usando PGP serás aprobado automágicamente [DA446D1A7A284885D7680F10322BB3D9118454CA](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA)
+Usando [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA) serás aprobado automágicamente.
 
 Incluí una breve descripción del uso previsto.  
 

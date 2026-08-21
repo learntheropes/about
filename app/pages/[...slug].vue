@@ -1,36 +1,13 @@
 <script setup>
 const route = useRoute()
-const { locale, locales } = useI18n()
-const localePath = useLocalePath()
+const { locale } = useI18n()
 
-const supportedLocales = computed(() => locales.value.map(l => typeof l === 'string' ? l : l.code))
+// Normalize the trailing slash before it's used anywhere: SSR (nitro.prerender.routes,
+// no trailing slash) and the browser (real URL, always trailing slash) otherwise see a
+// different route.path, which breaks the useAsyncData key and causes a hydration mismatch.
+const contentPath = computed(() => route.path.replace(/\/+$/, ''))
 
-// Path with any locale prefix stripped, e.g. "/en/biosophy/" -> "/biosophy", "/en/" -> "/"
-const pathWithoutLocale = computed(() => {
-  const p = route.path
-  for (const code of supportedLocales.value) {
-    if (p === `/${code}` || p.startsWith(`/${code}/`)) {
-      return p.slice(code.length + 1) || '/'
-    }
-  }
-  return p
-})
-
-// Redirect to the same page with a language prefix if missing
-onMounted(() => {
-  const hasLocalePrefix = supportedLocales.value.some(code => route.path === `/${code}` || route.path.startsWith(`/${code}/`))
-  if (!hasLocalePrefix) {
-    const target = pathWithoutLocale.value === '/' ? '/' : `${pathWithoutLocale.value}/`
-    navigateTo(localePath(target), { replace: true })
-  }
-})
-
-const key = computed(() => `${route.path}-${locale.value}`)
-
-const contentPath = computed(() => {
-  const p = route.path
-  return p === '/' ? '/' : p.replace(/\/+$/, '')
-})
+const key = computed(() => `${contentPath.value}-${locale.value}`)
 
 const { data } = await useAsyncData(
   key,

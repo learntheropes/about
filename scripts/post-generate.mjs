@@ -10,11 +10,11 @@ function main() {
 
   ensureDir(outDir)
 
-  // GitHub Pages SPA fallback
+  // GitHub Pages SPA fallback, only if nitro didn't already prerender a real index.html
   const html200 = path.join(outDir, '200.html')
   const indexHtml = path.join(outDir, 'index.html')
 
-  if (fs.existsSync(html200)) {
+  if (!fs.existsSync(indexHtml) && fs.existsSync(html200)) {
     fs.copyFileSync(html200, indexHtml)
   }
 

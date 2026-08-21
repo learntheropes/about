@@ -35,7 +35,7 @@ switch(props.error.statusCode) {
     translatedErrorMessage = t('somethingWentWrong')
 }
 
-const handleError = () => clearError({ redirect: `/${locale.value}` });
+const handleError = () => clearError({ redirect: `/${locale.value}/building` });
 </script>
 
 <template>

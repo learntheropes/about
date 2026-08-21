@@ -1,17 +1,17 @@
 ---
 title: Giovanni (learntheropes) LPY
-description: Operazioni per Startup • Infrastrutture di Pagamento e Bitcoin • IA
+description: Operazioni per Startup • Bitcoin e Pagamenti • IA • Mercati Emergenti
 ---
 
-## Cosa faccio
+## Attualmente costruendo
 
-<h3 style="display:inline;">Cofondatore, CEO, CCO, senior developer @ Paguaitu</h3>
+### Cofondatore, CEO, CCO, senior developer @ Paguaitu
 
-<i style="font-size: 16px;">PY EAS & CH Verein</i>
+*PAGUAITU EAS (Asunción, PY)*: Sviluppiamo software per far crescere le vendite internazionali con tecnologie assistite da blockchain combinate con il sistema bancario tradizionale per pagamenti multi-rail, e con tecnologie di IA multi-agente per il marketing. Il nostro primo approccio riguarda l'edilizia e il settore immobiliare in Paraguay e America Latina, con un fondo per immobili e terreni agricoli nella roadmap.
 
-Dove sviluppiamo software per far crescere le vendite internazionali con tecnologie assistite da blockchain combinate con il sistema bancario tradizionale per pagamenti multi-rail, e con tecnologie di IA multi-agente per il marketing, sempre con un approccio sovrano.
+*PAGUAITU Verein (Lugano, CH)*: I core del software e la maggior parte dei plugin rivolti a business informali e ad alto rischio sono a licenza MIT.
 
-I core del software e la maggior parte dei plugin rivolti a business informali e ad alto rischio sono a licenza MIT, mentre la versione cloud e gli altri plugin rivolti ad aziende di medie dimensioni pienamente conformi sono software proprietario.
+*PAGUAITU EAS (Asunción, PY)*: La versione cloud e gli altri plugin rivolti ad aziende di medie dimensioni pienamente conformi sono software proprietario.
 
 Non reinventiamo la ruota: costruiamo sopra gli strumenti open source meglio mantenuti e finanziati del settore, come [Trust Wallet Core](https://github.com/trustwallet/wallet-core), [BTCPay Greenfield API](https://github.com/btcpayserver/btcpayserver), [PayRam](https://github.com/Payram), [LiteLLM](https://github.com/BerriAI/litellm) e [Grok Build](https://github.com/xai-org/grok-build), oltre a numerose integrazioni via API e MCP.
 
@@ -20,20 +20,18 @@ Non reinventiamo la ruota: costruiamo sopra gli strumenti open source meglio man
 
 ---
 
-<h3 style="display:inline;">Solopreneur @ Fantasia lat/ina</h3>
+### Solopreneur @ Fantasia lat/ina
 
-<i style="font-size: 16px;">NM LLC & PY RUC</i>
+*Fantasia latina RUC (Asunción, PY)*: Aiuto le PMI del Paraguay a espandersi nel mercato LatAm con gli strumenti di marketing basati su IA e, in parte, con i canali di pagamento basati su blockchain sviluppati da Paguaitu Verein, oltre che con le strutture logistiche e legali maturate in un decennio di esperienza diretta sul campo.
 
-Dove aiuto le PMI del Paraguay a espandersi nel mercato LatAm e le aziende internazionali a entrare nel mercato LatAm usando il Paraguay come hub regionale, con gli strumenti di blockchain e IA sviluppati da Paguaitu.
+*Fantasia latina LLC (Albuquerque, NM, US)*: Nella roadmap, voglio aiutare le aziende internazionali a entrare nel mercato LatAm usando il Paraguay come hub regionale.
 
 - [Sito](https://fantasia.lat/ina)
 - [GitHub](https://github.com/fantasia-lat)
 
 ---
 
-<h3 style="display:inline;">BTCPay Server</h3>
-
-<i style="font-size: 16px;">Collaboratore indipendente</i>
+### BTCPay Server
 
 Sono contributor del [core](https://github.com/btcpayserver/btcpayserver/pulls?q=author%3Alearntheropes) e dei [plugin](https://github.com/btcpayserver-tether/BTCPayServer.Plugins.USDt/pulls?q=author%3Alearntheropes) di BTCPay Server e gestisco un'[istanza](https://btcpay.lpy.lat).
 
