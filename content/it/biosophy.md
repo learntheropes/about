@@ -3,7 +3,10 @@ title: Giovanni (learntheropes) LPY
 description: Un nomade analogico, un sedentario digitale
 ---
 
-*Ispirato al termine "nomade digitale", mi definisco un **nomade analogico** perché sono stato marinaio professionista per 20 anni, finché non ho scoperto Bitcoin e, in sei mesi, sono diventato un **sedentario digitale**, residente permanente (legalmente e nella pratica) in Paraguay, lavorando da remoto per startup Bitcoin.*
+Un **nomade** analogico, un **sedentario** digitale.  
+**Dicono** che sono **bipolare**, qualcuno ha detto pure **semi-autistico**.  
+Io semplicemente **mescolo** le **preferenze temporali**.  
+Mi propongo di dimostrare che la **conoscenza** supera il **capitale**. 
 
 ## Giovanni LPY: un nomade analogico
 

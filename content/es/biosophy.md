@@ -1,9 +1,12 @@
 ---
 title: Giovanni (learntheropes) LPY
-description: Un nómada analógico, un sedentario digital
+description: Un nómada analógico y sedentario digital que mezcla las preferencias temporales. Dicen bipolar, incluso semi-autista. Aspiro a demostrar que el conocimiento supera al capital.
 ---
 
-*Inspirado por la moda del nómada digital, me defino como un **nómada analógico** porque fui marinero profesional durante 20 años hasta que descubrí Bitcoin y, en seis meses, me convertí en un **sedentario digital**, residente permanente (legal y prácticamente) en Paraguay, trabajando en remoto para startups de Bitcoin.*
+Un **nómada** analógico, un **sedentario** digital.  
+**Dicen** que soy **bipolar**, alguien incluso dijo **semi-autista**.  
+Yo solo **mezclo** las **preferencias temporales**.  
+Aspiro a demostrar que el **conocimiento** supera al **capital**.
 
 ## Giovanni LPY: un nómada analógico
 

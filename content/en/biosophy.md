@@ -1,9 +1,12 @@
 ---
 title: Giovanni (learntheropes) LPY
-description: An analog nomad, a digital sedentary
+description: An analog nomad and digital sedentary who mixes time preferences. They say bipolar, even semi-autistic. I aim to prove that knowledge outweighs capital.
 ---
 
-*Inspired by the digital nomad buzzword, I define myself as an **analog nomad** because I've been a professional sailor for 20 years until I discovered Bitcoin and in six months I became a **digital sedentary** with a permanent (legally and practically) Paraguayan resident working remotely for Bitcoin startups.*
+An **analog** nomad, a **digital** sedentary.  
+**They** say **bipolar**, even **semi-autistic**.  
+I just **mix** the **time preferences**.  
+I aim to prove **knowledge** outweighs **capital**.
 
 ## Giovanni LPY: an analog nomad
 
