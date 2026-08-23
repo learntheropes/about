@@ -6,4 +6,7 @@ export default {
   backToTheHomePage: 'Volver a la página de inicio',
   // guru
   architecture: 'Arquitectura',
+  // cv
+  cvView: 'Ver',
+  cvDownload: 'Descargar',
 }

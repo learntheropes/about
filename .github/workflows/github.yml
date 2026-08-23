@@ -30,10 +30,13 @@ jobs:
       - name: Install
         run: npm ci
 
+      - name: Configure Pages
+        id: pages
+        uses: actions/configure-pages@v5
+
       - name: Build (Nuxt SSG)
         env:
-          NUXT_PUBLIC_SITE_URL: ${{ vars.NUXT_PUBLIC_SITE_URL }}
-          NUXT_SSG: ${{ vars.NUXT_SSG }}
+          NUXT_PUBLIC_SITE_URL: ${{ steps.pages.outputs.base_url }}
           NODE_ENV: ${{ vars.NODE_ENV }}
           NUXT_PUBLIC_UMAMI_ID: ${{ vars.NUXT_PUBLIC_UMAMI_ID }}
           NUXT_PUBLIC_UMAMI_HOST: ${{ vars.NUXT_PUBLIC_UMAMI_HOST }}
@@ -47,7 +50,6 @@ jobs:
             rsync -a ".output/public/about-me/" ".output/public/"
             rm -rf ".output/public/about-me"
           fi
-          touch ".output/public/.nojekyll"
           echo "== .output/public listing =="
           ls -la ".output/public"
           echo "== .output/public/en listing (if exists) =="

@@ -1,7 +1,9 @@
 <script setup>
 import { guru } from '~/assets/js/guruLinks'
+import { deploymentDomain } from '~/assets/js/deployment'
 
 const { t } = useI18n()
+const utmSource = new URL(deploymentDomain).hostname
 
 const isValidLink = (url) => {
   try {
@@ -14,7 +16,7 @@ const isValidLink = (url) => {
 
 const withUtm = (url) => {
   const parsed = new URL(url)
-  parsed.searchParams.set('utm_source', 'g.lpy.lat')
+  parsed.searchParams.set('utm_source', utmSource)
   return parsed.toString()
 }
 </script>
