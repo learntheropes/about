@@ -4,9 +4,9 @@ description: Use my BTCPay Server instance to receive payments in BTC and USDT
 ---
 
 Public user registration is disabled due to abuse and spam.  
-To register your user, [write an email](mailto:giovanni@lpy.lat) from the address you want to register with.  
+To register your user, [write an email](mailto:g@lpy.lat) from the address you want to register with.  
 
-By using [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA) you will be automagically approved.
+By using [PGP](https://keys.openpgp.org/vks/v1/by-fingerprint/73A27F2E2ABC1FAFF43AE3D74A637B61002D66DB) you will be automagically approved.
 
 Include a brief description of the planned usage.  
 

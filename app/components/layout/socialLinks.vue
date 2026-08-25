@@ -27,7 +27,7 @@
           d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4-8 5-8-5V6l8 5 8-5v2z" />
       </svg>
     </a>
-    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/DA446D1A7A284885D7680F10322BB3D9118454CA" target="_blank"
+    <a href="https://keys.openpgp.org/vks/v1/by-fingerprint/73A27F2E2ABC1FAFF43AE3D74A637B61002D66DB" target="_blank"
       rel="noopener noreferrer" aria-label="PGP key" class="transition" style="color: var(--ui-text-dimmed)">
       <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
         <path
