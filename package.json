@@ -9,6 +9,7 @@
     "build": "nuxi build",
     "start": "nuxi start",
     "generate": "NUXT_SSG=true nuxi generate && node scripts/post-generate.mjs",
+    "cv:pdf": "node scripts/generate-cv-pdf.mjs",
     "preview:ssg": "npx serve .output/public -l 3000"
   },
   "dependencies": {
@@ -27,5 +28,8 @@
   },
   "engines": {
     "node": "^20.19.0 || >=22.12.0"
+  },
+  "devDependencies": {
+    "md-to-pdf": "^5.2.5"
   }
 }
