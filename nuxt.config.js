@@ -76,13 +76,20 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@nuxt/content',
     'nuxt-delay-hydration',
-    'nuxt-umami'
+    'nuxt-umami',
+    'nuxt-echarts'
   ],
 
   ui: {
     experimental: {
       componentDetection: true
     }
+  },
+
+  echarts: {
+    renderer: ['svg', 'canvas'],
+    charts: ['LineChart', 'BarChart', 'CandlestickChart', 'CustomChart'],
+    components: ['TitleComponent', 'TooltipComponent', 'LegendComponent', 'GridComponent', 'DatasetComponent']
   },
 
   colorMode: {

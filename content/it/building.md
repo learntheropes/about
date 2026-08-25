@@ -59,7 +59,10 @@ Localbitcoins è stata la prima piattaforma P2P per Bitcoin. La prima a introdur
 Siamo cresciuti da un team di 4 persone a un team multicontinentale di 80+ in 10 anni, generando ricavi per circa 60mila BTC.
 
 - [Piattaforma dismessa](https://www.localbitcoins.com)
-- [Storico dei volumi scambiati](https://web.archive.org/web/20240414145050/https://coin.dance/volume/localbitcoins/ALL).
+- [Storico dei volumi scambiati](https://web.archive.org/web/20240414145050/https://coin.dance/volume/localbitcoins/ALL)
+
+::localbitcoins-volume-chart
+::
 
 ---
 

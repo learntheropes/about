@@ -59,7 +59,10 @@ Localbitcoins was the first P2P Bitcoin platform. The first one to introduce the
 We scaled from a team of 4 to a multicontinental team of 80+ in 10 years, generating revenues of about 60k BTC.
 
 - [Dead platform](https://www.localbitcoins.com)
-- [Traded volume history](https://web.archive.org/web/20240414145050/https://coin.dance/volume/localbitcoins/ALL).
+- [Traded volume history](https://web.archive.org/web/20240414145050/https://coin.dance/volume/localbitcoins/ALL)
+
+::localbitcoins-volume-chart
+::
 
 ---
 
@@ -67,7 +70,7 @@ We scaled from a team of 4 to a multicontinental team of 80+ in 10 years, genera
 
 In the pre-bitcoin era I was a sailor, sailing about 10K nautical miles in the Med Sea & Atlantic Ocean.
 
-## CV
+## Curriculum Vitae
 
 ::download-cv{filename="glpy-cv.pdf"}
 ::
