@@ -122,7 +122,9 @@ export default defineNuxtConfig({
       routes: [
         '/',
         ...localeCodes.flatMap((code) =>
-          ['building', 'biosophy', 'btcpay', 'guru'].map((slug) => `/${code}/${slug}`)
+          // 'insights/localbitcoins' is deliberately not linked from any nav/page yet,
+          // but still needs prerendering to exist as a reachable static route.
+          ['building', 'biosophy', 'btcpay', 'guru', 'insights/localbitcoins'].map((slug) => `/${code}/${slug}`)
         )
       ]
     }
