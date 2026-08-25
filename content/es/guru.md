@@ -3,5 +3,10 @@ title: Guru PY
 description: Gurú vendehumo del Paraguay
 ---
 
-::guru-cards
+## Curriculum Vitae
+
+::link-cards{section="architecture"}
+::
+
+::link-cards{section="landscapes"}
 ::

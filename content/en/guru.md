@@ -3,5 +3,8 @@ title: PY guru
 description: Paraguay Snake-oil salesman
 ---
 
-::guru-cards
+::link-cards{section="architecture"}
+::
+
+::link-cards{section="landscapes"}
 ::

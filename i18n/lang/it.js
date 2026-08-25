@@ -6,7 +6,12 @@ export default {
   backToTheHomePage: 'Tornare alla pagina principale',
   // guru
   architecture: 'Architettura',
+  landscapes: 'Paesaggi',
   // cv
   cvView: 'Visualizza',
   cvDownload: 'Scarica',
+  // charts
+  viewAsTable: 'Vedi come tabella',
+  date: 'Data',
+  loadingChart: 'Caricamento grafico…',
 }
