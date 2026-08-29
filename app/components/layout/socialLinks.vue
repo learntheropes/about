@@ -1,5 +1,12 @@
 <template>
   <div class="flex items-center gap-5">
+    <a href="https://contact.lpy.lat" target="_blank" rel="noopener noreferrer" aria-label="Contact card"
+      class="transition" style="color: var(--ui-text-dimmed)">
+      <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm-11 3c1.38 0 2.5 1.12 2.5 2.5S10.38 12 9 12s-2.5-1.12-2.5-2.5S7.62 7 9 7zm5 10H4v-1c0-1.67 3.33-2.5 5-2.5s5 .83 5 2.5v1zm2.85-3h1.64c.28 0 .5.22.5.5s-.22.5-.5.5h-1.64c-.28 0-.5-.22-.5-.5s.22-.5.5-.5zm0-2h2.64c.28 0 .5.22.5.5s-.22.5-.5.5h-2.64c-.28 0-.5-.22-.5-.5s.22-.5.5-.5zm0-2h2.64c.28 0 .5.22.5.5s-.22.5-.5.5h-2.64c-.28 0-.5-.22-.5-.5s.22-.5.5-.5z" />
+      </svg>
+    </a>
     <a href="https://github.com/learntheropes" target="_blank" rel="noopener noreferrer" aria-label="GitHub"
       class="transition" style="color: var(--ui-text-dimmed)">
       <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
