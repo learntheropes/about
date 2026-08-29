@@ -2,17 +2,17 @@
 @import "@nuxt/ui";
 
 @theme static {
-  --color-bitcoin-50: #fef8f1;
-  --color-bitcoin-100: #fdf1e3;
-  --color-bitcoin-200: #fde1bf;
-  --color-bitcoin-300: #fbca8e;
-  --color-bitcoin-400: #f9ab4e;
-  --color-bitcoin-500: #f7931a;
-  --color-bitcoin-600: #de7d08;
-  --color-bitcoin-700: #b66706;
-  --color-bitcoin-800: #9e5906;
-  --color-bitcoin-900: #8d4e01;
-  --color-bitcoin-950: #512d01;
+  --color-bitcoin-50: #fff4ec;
+  --color-bitcoin-100: #ffe6d5;
+  --color-bitcoin-200: #ffc9aa;
+  --color-bitcoin-300: #ffa574;
+  --color-bitcoin-400: #fb7f3c;
+  --color-bitcoin-500: #f46a00;
+  --color-bitcoin-600: #d55a00;
+  --color-bitcoin-700: #b04600;
+  --color-bitcoin-800: #8c3900;
+  --color-bitcoin-900: #723004;
+  --color-bitcoin-950: #3e1800;
 }
 
 /* Nuxt Content heading anchors: keep the link, hide its label */
